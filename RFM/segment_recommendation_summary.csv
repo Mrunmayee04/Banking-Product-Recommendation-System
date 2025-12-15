@@ -1,0 +1,6 @@
+Segment,Top_Product,Rec_Count,Rec_Pct,Avg_Score,Avg_Affinity,Segment_Size,Avg_Monetary
+New Joiners,saving_account,1940,100.0%,0.558,0.00x,1940,"€4,913"
+Hibernating,direct_debit,10351,73.2%,0.621,0.66x,14145,"€4,016"
+VIP Champions,pensions,2789,90.8%,0.601,1.41x,3070,"€128,252"
+Champions,credit_card,10797,39.7%,0.997,2.03x,27173,"€11,779"
+Core Customers,saving_account,30720,99.9%,0.611,0.91x,30737,"€2,997"
